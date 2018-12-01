@@ -5,7 +5,7 @@ module.exports = {
       'link_url': 'https://github.com/josemaestri'
     },
     {
-      'link_name': 'Code Pen',
+      'link_name': 'CodePen',
       'link_url': 'https://codepen.io/josemaestri'
     }
   ] 
